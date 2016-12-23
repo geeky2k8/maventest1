@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * This is sample test CI Project Pipeline.
  *
  */
 public class App 
